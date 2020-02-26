@@ -8,6 +8,12 @@ End-to-end deep learning based steering angle decision network.
 
 This package provide ros-kinetic-desktop-full docker image and added carla-simulator.
 
+### Dependency
+
+- Docker
+- Nvidia-docker2
+- ROS-kinetic
+
 ## TODO
 
 - 2D LiDAR to Occupancy image.
