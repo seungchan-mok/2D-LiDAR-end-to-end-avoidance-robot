@@ -21,7 +21,6 @@ This package provide ros-kinetic-desktop-full docker image and added carla-simul
 - labeling data maker
 - model network
 
-- https://www.osrfoundation.org/simulated-car-demo/
 - https://github.com/osrf/car_demo
 
 ## Reference
